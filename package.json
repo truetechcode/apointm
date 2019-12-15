@@ -1,0 +1,23 @@
+{
+  "name": "apointm",
+  "version": "1.0.0",
+  "description": "\"a hospital appointment management app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truetechcode/apointm.git"
+  },
+  "author": "\"Terver Aosu\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truetechcode/apointm/issues"
+  },
+  "homepage": "https://github.com/truetechcode/apointm#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
